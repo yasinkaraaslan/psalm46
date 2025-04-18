@@ -1,0 +1,1 @@
+pandoc psalm46.md -o psalm46.pdf -V geometry:b5paper -V geometry:margin=2cm -H options.tex
